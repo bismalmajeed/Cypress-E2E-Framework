@@ -15,7 +15,6 @@ jobs:
         with:
          command: npm run test:addToCart
 
-
       - name: Cypress Test Report
         uses: actions/upload-artifact@v3
         with:

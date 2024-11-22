@@ -22,7 +22,6 @@ jobs:
           name: Mochawesome HTML Report - Add To Cart
           path: cypress/reports/html   
    
-
   Reg-Flow-run:
     runs-on: ubuntu-22.04
     steps:
